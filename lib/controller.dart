@@ -5,8 +5,8 @@ class HomeController extends GetxController {
   IconData iconLight = Icons.wb_sunny;
   IconData iconDark = Icons.nights_stay;
   List<String> list = [
-    'lib/image/light.jpg',
-    'lib/image/dark.jpg',
+    'lib/image/1.gif',
+    'lib/image/3.gif',
   ];
   bool iconBool = false;
   int index = 0;

@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
 }
 
 ThemeData _lightTheme = ThemeData(
-  primarySwatch: Colors.lightBlue,
+  primarySwatch: Colors.orange,
   brightness: Brightness.light,
 );
 
