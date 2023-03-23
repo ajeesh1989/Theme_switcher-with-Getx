@@ -70,6 +70,7 @@ flutter:
     - lib/image/splash.jpg
     - lib/image/88299-owls (1).gif
     - lib/image/3.gif
+    - lib/image/1.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
